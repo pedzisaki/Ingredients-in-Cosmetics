@@ -14,4 +14,4 @@ You can find 4 different project files in this GitHub Repository.
 2. Juptyter Notebook with the Exploratory Data Analysis, cleaning, Analysis and Visualization. It shows the step by step process used to answer the data science questions.
 3. Powerpoint Presentation
 4. The raw dataset in a ZIP file (large in size)
-5. Partially cleaned data set that was used in the analysis
+5. Partially cleaned data set that was used in the analysis (cosmetics.csv)
