@@ -1,4 +1,4 @@
-# Ingredients-in-Cosmetics
+# Exploration of the Ingredients in Cosmetics
 
 #### These data reflect information that has been reported to the California Safe Cosmetics Program (CSCP) in the California Department of Public Health (CDPH).
 #### The primary purpose of the CSCP is to collect information on hazardous and potentially hazardous ingredients in cosmetic products sold in California and to make this information available to the public.  
@@ -10,8 +10,7 @@
 
 ### Project Files
 You can find 4 different project files in this GitHub Repository.
-1. Final project Summary Document
+1. Summary Document
 2. Juptyter Notebook with the Exploratory Data Analysis, cleaning, Analysis and Visualization. It shows the step by step process used to answer the data science questions.
-3. Powerpoint Presentation
-4. The raw dataset in a ZIP file (large in size)
-5. Partially cleaned data set that was used in the analysis (cosmetics.csv)
+3. The raw dataset in a ZIP file (large in size)
+4. Partially cleaned data set that was used in the analysis (cosmetics.csv)
